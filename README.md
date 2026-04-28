@@ -64,7 +64,7 @@ MySQL, MongoDB
 ## 📫 Contact Me
 
 📧 [ar.messadeg@gmail.com](mailto:ar.messadeg@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/aziz-el-rahmene-messadeg
+💼 LinkedIn: [https://linkedin.com/in/aziz-el-rahmene-messadeg](https://www.linkedin.com/in/aziz-el-rahmene-messadeg-b15487351/)
 
 ---
 
